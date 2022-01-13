@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mukesh-gupta-uipath
 - 👀 I’m interested in Cricket, Programming, Designing of large scale system
-- 🌱 I’m currently learning C#, ASP.net, FE, Azure
+- 🌱 I’m currently learning C#, ASP.net, angular, Azure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mukeshknit57@gmail.com
 
